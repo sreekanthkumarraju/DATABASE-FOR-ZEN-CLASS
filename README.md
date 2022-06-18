@@ -37,10 +37,6 @@ tasks table
 ![mysql_Aqog3lqUIs](https://user-images.githubusercontent.com/95994543/174430958-e25b188b-2eb6-4d4a-9067-456ae5bcfa60.png)
 
 
-tasks table:
-
-![mysql_1mMZ0PAlKi](https://user-images.githubusercontent.com/95994543/174428766-9894629a-fa7a-4a35-88a2-42ab6609301a.png)
-
 company-drives:
 
 ![mysql_7bE9BU3GA0](https://user-images.githubusercontent.com/95994543/174428852-8285965f-9ea4-442c-8fef-b012f5e15e9e.png)
@@ -77,13 +73,6 @@ course
 
 
 
-
-tasks table
-![mysql_0mFU3GROo5](https://user-images.githubusercontent.com/95994543/174430901-f0208f14-855c-4c6f-aafc-d40c86ebeba2.png)
-![mysql_Aqog3lqUIs](https://user-images.githubusercontent.com/95994543/174430958-e25b188b-2eb6-4d4a-9067-456ae5bcfa60.png)
-
-company_drives:
-![mysql_HoFKlVM8iP](https://user-images.githubusercontent.com/95994543/174431088-1606f0db-9abb-402c-8f9a-9b7c94573440.png)
 
 
 
