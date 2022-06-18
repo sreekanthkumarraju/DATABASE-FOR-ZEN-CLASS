@@ -11,6 +11,16 @@
 
 ![mysql_0hIzs82nOh](https://user-images.githubusercontent.com/95994543/174429860-02976ee0-c0ad-43cb-b34d-ce7f9be1fecc.png)
 
+![mysql_zIUu2oqh8I](https://user-images.githubusercontent.com/95994543/174432875-7d2bd034-8939-45be-a7a2-0aea94841249.png)
+
+![mysql_kqs8Xoyvs6](https://user-images.githubusercontent.com/95994543/174432877-107241d9-23e2-41ba-97ee-83a76a070749.png)
+
+![mysql_46eEpP0MuH](https://user-images.githubusercontent.com/95994543/174432886-d1dffd9b-ce63-4f6c-970a-9f4dadb6a4a3.png)
+
+![mysql_r2FB10ni1Q](https://user-images.githubusercontent.com/95994543/174432890-30b8f9f4-4294-4334-ac49-7aaa0c479129.png)
+
+![mysql_DPhW6DbQl2](https://user-images.githubusercontent.com/95994543/174432893-4ee7d72a-d8d4-4d55-9346-500007ca40b6.png)
+
 codekata table:
 
 ![mysql_S2uecQnWcO](https://user-images.githubusercontent.com/95994543/174428514-dc065d63-e845-49d4-a474-f034269ddcfc.png)
