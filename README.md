@@ -225,28 +225,6 @@ Result:
 
 
 
-users
-
-![mysql_deGMVNo6qH](https://user-images.githubusercontent.com/95994543/174435392-803efd81-f932-4e94-a90c-ef73f1ad2824.png)
-
-mentors
-
-![mysql_ZNO3LBjKQ3](https://user-images.githubusercontent.com/95994543/174435396-29f53850-e904-4a55-a8ff-39a2c3088e6d.png)
-
-codekata
-
-![mysql_ubFiWOnzao](https://user-images.githubusercontent.com/95994543/174435414-0d021e7b-90e7-4d78-9ecc-6037670466f3.png)
-
-course
-
-![mysql_4Zbj79bEWm](https://user-images.githubusercontent.com/95994543/174435428-d3bced84-7e3a-4098-a3e3-06343b3b8874.png)
-
-
-student-activated-course
-
-![mysql_lHbEwN07Mv](https://user-images.githubusercontent.com/95994543/174435436-8b54e7ce-6f82-4eea-bc61-6326bf9d0f06.png)
-
-
 
 
 
