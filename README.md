@@ -148,6 +148,16 @@ creating table
 3. Get number of problems solved in codekata by combining the users
 --------------------------------------------------------------------------------------------
 
+users Table:
+
+![mysql_deGMVNo6qH](https://user-images.githubusercontent.com/95994543/174435392-803efd81-f932-4e94-a90c-ef73f1ad2824.png)
+
+codekata Table:
+
+![mysql_ubFiWOnzao](https://user-images.githubusercontent.com/95994543/174435414-0d021e7b-90e7-4d78-9ecc-6037670466f3.png)
+
+Result:
+
 ![mysql_1XpLWSDmRB](https://user-images.githubusercontent.com/95994543/174433361-09b3346f-b433-4ab9-b81d-09706d1912bc.png)
 
 ---------------------------------------------------------------------------------------------
@@ -158,6 +168,20 @@ creating table
 -------------------------------------------------------------------------------------------
 5. combine and display student activated courses and course for specific user grouping them based on course
 -------------------------------------------------------------------------------------------
+
+users Table:
+
+![mysql_deGMVNo6qH](https://user-images.githubusercontent.com/95994543/174435392-803efd81-f932-4e94-a90c-ef73f1ad2824.png)
+
+course Table:
+
+![mysql_4Zbj79bEWm](https://user-images.githubusercontent.com/95994543/174435428-d3bced84-7e3a-4098-a3e3-06343b3b8874.png)
+
+student-activated-courses Table:
+
+![mysql_lHbEwN07Mv](https://user-images.githubusercontent.com/95994543/174435436-8b54e7ce-6f82-4eea-bc61-6326bf9d0f06.png)
+
+Result:
 
 ![mysql_AxEm75wnIu](https://user-images.githubusercontent.com/95994543/174434378-ceacb2e5-5f08-403a-8214-a9a6c9e4d8a2.png)
 
@@ -172,6 +196,18 @@ creating table
 7.List the number of students that are assigned for a mentor
 
 ----------------------------------------------------------------------------------------------
+
+users Table:
+
+![mysql_deGMVNo6qH](https://user-images.githubusercontent.com/95994543/174435392-803efd81-f932-4e94-a90c-ef73f1ad2824.png)
+
+mentors Table:
+
+
+![mysql_ZNO3LBjKQ3](https://user-images.githubusercontent.com/95994543/174435396-29f53850-e904-4a55-a8ff-39a2c3088e6d.png)
+
+Result:
+
 
 ![mysql_YcY2LsfW15](https://user-images.githubusercontent.com/95994543/174434005-2d5806fa-aad2-405b-bcf1-c397cb2a285b.png)
 
