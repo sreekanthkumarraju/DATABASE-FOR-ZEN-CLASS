@@ -1,16 +1,11 @@
 # DATABASE-FOR-ZEN-CLASS
 ![mysql_tZU90lP74A](https://user-images.githubusercontent.com/95994543/174428110-5a6202fb-0ec9-4f72-b919-e9b457cd65a3.png)
-![mysql_tZU90lP74A](https://user-images.githubusercontent.com/95994543/174428110-5a6202fb-0ec9-4f72-b919-e9b457cd65a3.png)
 
-usedatabase:
-
-![mysql_YtP9YprzL4](https://user-images.githubusercontent.com/95994543/174428248-13dc886d-2f77-4c64-88b0-ec303d1bd947.png
 
  users table:
  
 ![mysql_a2PGwzTqBF](https://user-images.githubusercontent.com/95994543/174428395-7961bd2f-df0e-42bb-b4d3-94045080f737.png)
 
- data
  
 ![mysql_HTjgtpYNYd](https://user-images.githubusercontent.com/95994543/174429859-6fa67e7e-0032-4e1f-90ee-8c1c323b8411.png)
 
@@ -33,6 +28,8 @@ attendance table:
 topics table:
 
 ![mysql_41eidnt4s9](https://user-images.githubusercontent.com/95994543/174428658-f9b293e0-e592-4d68-a384-5dd64d261c4c.png)
+
+![mysql_keQ18QITk6](https://user-images.githubusercontent.com/95994543/174432423-661e55de-9c81-4833-9df9-ff0f7b32c670.png)
 
 tasks table
 
