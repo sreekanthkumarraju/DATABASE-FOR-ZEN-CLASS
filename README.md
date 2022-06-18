@@ -78,7 +78,22 @@ courses
 ![mysql_tPnysTGD6P](https://user-images.githubusercontent.com/95994543/174431602-c0976ddf-a1cf-4070-94e1-09365943e5b1.png)
 
 
+codekata-problems solved
 
+![mysql_1XpLWSDmRB](https://user-images.githubusercontent.com/95994543/174433361-09b3346f-b433-4ab9-b81d-09706d1912bc.png)
+
+company drives attended
+![mysql_llyKv28q1H](https://user-images.githubusercontent.com/95994543/174433517-51b13be0-baa0-48d9-9674-01d140589c86.png)
+
+all mentors:
+![mysql_jkucKzJkD1](https://user-images.githubusercontent.com/95994543/174433631-7464ee1c-7ff8-4bac-b0f2-9cebe73e7cec.png)
+
+
+students assigned
+![mysql_YcY2LsfW15](https://user-images.githubusercontent.com/95994543/174434005-2d5806fa-aad2-405b-bcf1-c397cb2a285b.png)
+
+student-course
+![mysql_AxEm75wnIu](https://user-images.githubusercontent.com/95994543/174434378-ceacb2e5-5f08-403a-8214-a9a6c9e4d8a2.png)
 
 
 
