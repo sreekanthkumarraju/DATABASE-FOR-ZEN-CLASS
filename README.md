@@ -42,3 +42,33 @@ student-actuvated-courses
 courses
 
 ![mysql_2yQyDgLfGB](https://user-images.githubusercontent.com/95994543/174429199-885c98b0-75fd-4390-a4fb-7a0381c24b5b.png)
+
+
+users data
+![mysql_HTjgtpYNYd](https://user-images.githubusercontent.com/95994543/174429859-6fa67e7e-0032-4e1f-90ee-8c1c323b8411.png)
+![mysql_0hIzs82nOh](https://user-images.githubusercontent.com/95994543/174429860-02976ee0-c0ad-43cb-b34d-ce7f9be1fecc.png)
+
+code kata
+![mysql_avnz9ZadnE](https://user-images.githubusercontent.com/95994543/174429943-a82f8a1f-8f05-424a-b5ca-61deb4732488.png)
+
+
+attendance:
+![mysql_8AYiCyTjTo](https://user-images.githubusercontent.com/95994543/174430057-d3e7ee10-52a2-4036-9cdc-b64b715b9fb1.png)
+
+
+tasks table
+![mysql_0mFU3GROo5](https://user-images.githubusercontent.com/95994543/174430901-f0208f14-855c-4c6f-aafc-d40c86ebeba2.png)
+![mysql_Aqog3lqUIs](https://user-images.githubusercontent.com/95994543/174430958-e25b188b-2eb6-4d4a-9067-456ae5bcfa60.png)
+
+company_drives:
+![mysql_HoFKlVM8iP](https://user-images.githubusercontent.com/95994543/174431088-1606f0db-9abb-402c-8f9a-9b7c94573440.png)
+
+
+mentors:
+![mysql_wc93cYcYMo](https://user-images.githubusercontent.com/95994543/174431425-187675af-9b70-4419-9056-cf4e9ba77784.png)
+
+student_activated 
+![mysql_CTqdTxgfGJ](https://user-images.githubusercontent.com/95994543/174431514-2e2ab8a9-2a47-422d-a63b-f493d4d4a24c.png)
+
+course
+![mysql_tPnysTGD6P](https://user-images.githubusercontent.com/95994543/174431602-c0976ddf-a1cf-4070-94e1-09365943e5b1.png)
