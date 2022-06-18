@@ -116,14 +116,14 @@ creating table
 
 ![mysql_FQiJVyL50u](https://user-images.githubusercontent.com/95994543/174428976-c6811bde-cc81-42a9-abda-47beb1cf45c1.png)
 
- inserting and displaying records
-
 ![mysql_Y0OAhFyvR9](https://user-images.githubusercontent.com/95994543/174429005-82d28f44-c011-4355-b95d-3ca2da7277c0.png)
+ 
+ inserting and displaying records
 
 ![mysql_wc93cYcYMo](https://user-images.githubusercontent.com/95994543/174431425-187675af-9b70-4419-9056-cf4e9ba77784.png)
 
 ---------------------------------------------------------------------------------------------------------------------------
- 8.student-actuvated-courses
+ 8.student-activated-courses
 ----------------------------
  creating table 
 
