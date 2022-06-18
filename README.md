@@ -14,13 +14,19 @@
  1.users table:
 ----------------
 
+  Creating table
+  
 ![mysql_a2PGwzTqBF](https://user-images.githubusercontent.com/95994543/174428395-7961bd2f-df0e-42bb-b4d3-94045080f737.png)
 
- 
+  inserting data 
+  
 ![mysql_HTjgtpYNYd](https://user-images.githubusercontent.com/95994543/174429859-6fa67e7e-0032-4e1f-90ee-8c1c323b8411.png)
 
+ adding new column -- mentor_id to table
+ 
 ![mysql_0hIzs82nOh](https://user-images.githubusercontent.com/95994543/174429860-02976ee0-c0ad-43cb-b34d-ce7f9be1fecc.png)
 
+ inserting data into mentor_id column
 ![mysql_zIUu2oqh8I](https://user-images.githubusercontent.com/95994543/174432875-7d2bd034-8939-45be-a7a2-0aea94841249.png)
 
 ![mysql_kqs8Xoyvs6](https://user-images.githubusercontent.com/95994543/174432877-107241d9-23e2-41ba-97ee-83a76a070749.png)
