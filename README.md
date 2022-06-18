@@ -163,6 +163,16 @@ Result:
 ---------------------------------------------------------------------------------------------
 4. Display number of company drives attended by a user
 -----------------------------------------------------------------------------------------------
+
+users Table:
+
+![mysql_deGMVNo6qH](https://user-images.githubusercontent.com/95994543/174435392-803efd81-f932-4e94-a90c-ef73f1ad2824.png)
+
+company_drives Table:
+
+
+Result:
+
 ![mysql_llyKv28q1H](https://user-images.githubusercontent.com/95994543/174433517-51b13be0-baa0-48d9-9674-01d140589c86.png)
 
 -------------------------------------------------------------------------------------------
