@@ -170,6 +170,7 @@ users Table:
 
 company_drives Table:
 
+![mysql_CTgWmPq2eM](https://user-images.githubusercontent.com/95994543/174435699-42138ec1-3bb7-4911-8dae-23bdf081fa80.png)
 
 Result:
 
